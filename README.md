@@ -10,7 +10,6 @@
 
 <br />
 <hr />
-<br />
 
 <h4>🌐 AspectMania - Website for a minecraft server</h4>
 
