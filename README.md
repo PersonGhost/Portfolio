@@ -42,10 +42,10 @@
 
 <h5>Social media below:</h5>
 
-- Instagram: https://www.instagram.com/eric.viinny/
-- Twitter: https://twitter.com/ericviinny
-- Facebook: https://www.facebook.com/eric.viinny
-- Discord: PersonGhost#3867
+📕 Instagram: https://www.instagram.com/eric.viinny/ <br />
+📘 Twitter: https://twitter.com/ericviinny <br />
+📗 Facebook: https://www.facebook.com/eric.viinny <br />
+📙 Discord: PersonGhost#3867 <br />
 
 <br />
 <hr />
