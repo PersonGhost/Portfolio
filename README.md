@@ -14,29 +14,29 @@
 
 <h4>🌐 AspectMania - Website for a minecraft server</h4>
 
-🔗 https://i.imgur.com/GRl7Eu1.png <br />
-🔗 https://i.imgur.com/PUMPb8z.png <br />
-🔗 https://i.imgur.com/Ucovcae.png <br />
+💿 https://i.imgur.com/GRl7Eu1.png <br />
+💿 https://i.imgur.com/PUMPb8z.png <br />
+💿 https://i.imgur.com/Ucovcae.png <br />
 
 <hr />
 
 <h4>🌐 UniumHost - A layout that I did to one of my projects that we didn't finished</h4>
 
-🔗 https://i.imgur.com/G5kAcCc.png <br />
-🔗 https://i.imgur.com/Upg5yNj.png <br />
-🔗 https://i.imgur.com/Q9lQtky.png <br />
+💿 https://i.imgur.com/G5kAcCc.png <br />
+💿 https://i.imgur.com/Upg5yNj.png <br />
+💿 https://i.imgur.com/Q9lQtky.png <br />
 
 <hr />
 
 <h4>🌐 RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h4>
 
-- <a href="https://redeapellys.com.br/">Click here</a>
+📌 <a href="https://redeapellys.com.br/">Click here</a>
 
 <hr />
 
 <h4>🌐 FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h4>
 
-- <a href="https://fanaticshop.com.br/">Click here</a>
+📌 <a href="https://fanaticshop.com.br/">Click here</a>
 
 <hr />
 
