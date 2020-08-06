@@ -14,17 +14,17 @@
 
 <h4>🌐 AspectMania - Website for a minecraft server</h4>
 
-- https://i.imgur.com/GRl7Eu1.png
-- https://i.imgur.com/PUMPb8z.png
-- https://i.imgur.com/Ucovcae.png
+🔗 https://i.imgur.com/GRl7Eu1.png
+🔗 https://i.imgur.com/PUMPb8z.png
+🔗 https://i.imgur.com/Ucovcae.png
 
 <hr />
 
 <h4>🌐 UniumHost - A layout that I did to one of my projects that we didn't finished</h4>
 
-- https://i.imgur.com/G5kAcCc.png
-- https://i.imgur.com/Upg5yNj.png
-- https://i.imgur.com/Q9lQtky.png
+🔗 https://i.imgur.com/G5kAcCc.png
+🔗 https://i.imgur.com/Upg5yNj.png
+🔗 https://i.imgur.com/Q9lQtky.png
 
 <hr />
 
