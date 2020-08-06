@@ -1,0 +1,6 @@
+name: Trade
+main: person.trade.divert.Divert
+version: 1.0
+author: PersonGhost
+commands:
+    trade:

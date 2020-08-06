@@ -1,0 +1,7 @@
+name: H_Motd
+version: 1.0
+author: PersonGhost
+main: person.hydra.motd.Main
+description: Sistema de Motd do servidor.
+commands:
+  hmotd:

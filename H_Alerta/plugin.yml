@@ -1,0 +1,7 @@
+name: H_Alerta
+version: 1.0
+author: PersonGhost
+main: person.hydra.alerta.Main
+description: Sistema de Alerta do servidor.
+commands:
+  alerta:

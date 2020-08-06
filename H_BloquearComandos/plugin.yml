@@ -1,0 +1,5 @@
+name: H_BloquearComandos
+version: 1.0
+author: PersonGhost
+main: person.hydra.blockcmd.Main
+description: Sistema de bloquear comandos.

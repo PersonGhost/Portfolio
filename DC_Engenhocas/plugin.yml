@@ -1,0 +1,6 @@
+name: DC_Engenhochas
+version: 1.0
+main: person.divert.Divert
+author: PersonGhost
+commands:
+    engenhocas:
