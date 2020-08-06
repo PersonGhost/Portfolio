@@ -14,9 +14,9 @@
 
 <h2>AspectMania - Website for a minecraft server</h2>
 
-<img src="https://i.imgur.com/GRl7Eu1.png" />
-<img src="https://i.imgur.com/PUMPb8z.png" />
-<img src="https://i.imgur.com/Ucovcae.png" />
+- https://i.imgur.com/GRl7Eu1.png
+- https://i.imgur.com/PUMPb8z.png
+- https://i.imgur.com/Ucovcae.png
 
 <br />
 <hr />
@@ -24,9 +24,9 @@
 
 <h2>UniumHost - A layout that I did to one of my projects that we didn't finished</h2>
 
-<img src="https://i.imgur.com/G5kAcCc.png" />
-<img src="https://i.imgur.com/Upg5yNj.png" />
-<img src="https://i.imgur.com/Q9lQtky.png" />
+- https://i.imgur.com/G5kAcCc.png
+- https://i.imgur.com/Upg5yNj.png
+- https://i.imgur.com/Q9lQtky.png
 
 <br />
 <hr />
@@ -72,16 +72,16 @@
 <hr />
 <h2>AspectMania - Site para um servidor de Minecraft</h2>
 
-<img src="https://i.imgur.com/GRl7Eu1.png" />
-<img src="https://i.imgur.com/PUMPb8z.png" />
-<img src="https://i.imgur.com/Ucovcae.png" />
+- https://i.imgur.com/GRl7Eu1.png
+- https://i.imgur.com/PUMPb8z.png
+- https://i.imgur.com/Ucovcae.png
 
 <hr />
 <h2>UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h2>
 
-<img src="https://i.imgur.com/G5kAcCc.png" />
-<img src="https://i.imgur.com/Upg5yNj.png" />
-<img src="https://i.imgur.com/Q9lQtky.png" />
+- https://i.imgur.com/G5kAcCc.png
+- https://i.imgur.com/Upg5yNj.png
+- https://i.imgur.com/Q9lQtky.png
 
 <hr>
 <h3>RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h3>
