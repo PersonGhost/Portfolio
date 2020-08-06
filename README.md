@@ -60,33 +60,33 @@
 <p>Meus útlimos quatro projetos que posso mostrar</p>
 
 <hr />
-<h4>AspectMania - Site para um servidor de Minecraft</h4>
+<h4>🌐 AspectMania - Site para um servidor de Minecraft</h4>
 
-- https://i.imgur.com/GRl7Eu1.png
-- https://i.imgur.com/PUMPb8z.png
-- https://i.imgur.com/Ucovcae.png
+💿 https://i.imgur.com/GRl7Eu1.png <br />
+💿 https://i.imgur.com/PUMPb8z.png <br />
+💿 https://i.imgur.com/Ucovcae.png <br />
 
 <hr />
-<h4>UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h4>
+<h4>🌐 UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h4>
 
-- https://i.imgur.com/G5kAcCc.png
-- https://i.imgur.com/Upg5yNj.png
-- https://i.imgur.com/Q9lQtky.png
+💿 https://i.imgur.com/G5kAcCc.png <br />
+💿 https://i.imgur.com/Upg5yNj.png <br />
+💿 https://i.imgur.com/Q9lQtky.png <br />
 
 <hr>
-<h4>RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h4>
+<h4>🌐 RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h4>
 
-- <a href="https://redeapellys.com.br/">Click here</a>
+📌 <a href="https://redeapellys.com.br/">Click here</a>
 
-<h4>FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h4>
+<h4>🌐 FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h4>
 
-- <a href="https://fanaticshop.com.br/">Click here</a>
+📌 <a href="https://fanaticshop.com.br/">Click here</a>
 
 <p>Acima você pode ver alguns dos projetos já feitos por mim este ano (sites). Você também pode encontar aqui meus projetos Java Bukkit que eu fiz para alguns dos meus servidores ou servidores que eu já trabalhei, não é muito mas são os que eu posso mostrar.</p>
 
-<p>Redes sociais abaixo:</p>
+<5>Redes sociais abaixo:</5>
 
-- Instagram: https://www.instagram.com/eric.viinny/
-- Twitter: https://twitter.com/ericviinny
-- Facebook: https://www.facebook.com/eric.viinny
-- Discord: PersonGhost#3867
+📕 Instagram: https://www.instagram.com/eric.viinny/ <br />
+📘 Twitter: https://twitter.com/ericviinny <br />
+📗 Facebook: https://www.facebook.com/eric.viinny <br />
+📙 Discord: PersonGhost#3867 <br />
