@@ -18,9 +18,7 @@
 - https://i.imgur.com/PUMPb8z.png
 - https://i.imgur.com/Ucovcae.png
 
-<br />
 <hr />
-<br />
 
 <h2>UniumHost - A layout that I did to one of my projects that we didn't finished</h2>
 
@@ -28,25 +26,19 @@
 - https://i.imgur.com/Upg5yNj.png
 - https://i.imgur.com/Q9lQtky.png
 
-<br />
 <hr />
-<br />
 
 <h2>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h2>
 
 - <a href="https://redeapellys.com.br/">Click here</a>
 
-<br />
 <hr />
-<br />
 
 <h2>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h2>
 
 - <a href="https://fanaticshop.com.br/">Click here</a>
 
-<br />
 <hr />
-<br />
 
 </p>Above you can see some of my projects that I've done this year (Website). You also can find here my Java Bukkit projects that I've made to some of my servers or servers that I've worked already is not a lot but it's what I can show.</p>
 
