@@ -1,6 +1,6 @@
 # Portfolio
 
-<h3>🟢 English</h3>
+<h1>🟢 English</h1>
 
 <p>These are some projects mine that I've made since I started programming, there's not everything that I can do because 90% of my projects are to some peoples that don't want this projects to be showed. since then I just going to put here what I think that must be showed.</p>
 
@@ -51,7 +51,7 @@
 <hr />
 <br />
 
-<h3>🟡 Português</h3>
+<h1>🟡 Português</h1>
 
 <p>Estes são alguns dos projetos já feitos por mim desde meu começo na programação, Aqui não mostra tudo que eu consigo fazer por conta de 90% dos meusp rojetos seres para pessoas que não querem que sejam publicados. Sendo assim vou colocar somente o que eu acho que deve/pode ser mostrado.</p>
 
@@ -84,7 +84,7 @@
 
 <p>Acima você pode ver alguns dos projetos já feitos por mim este ano (sites). Você também pode encontar aqui meus projetos Java Bukkit que eu fiz para alguns dos meus servidores ou servidores que eu já trabalhei, não é muito mas são os que eu posso mostrar.</p>
 
-<5>Redes sociais abaixo:</5>
+<h5>Redes sociais abaixo:</h5>
 
 📕 Instagram: https://www.instagram.com/eric.viinny/ <br />
 📘 Twitter: https://twitter.com/ericviinny <br />
