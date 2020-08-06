@@ -8,29 +8,29 @@ There's others project that I did about websites (frontend) where the images can
 
 My last four projects that I can show
 
-AspectMania - Website for a minecraft server
+<h4>AspectMania - Website for a minecraft server</h4>
 
 <img src="https://i.imgur.com/GRl7Eu1.png" />
-- https://i.imgur.com/PUMPb8z.png
-- https://i.imgur.com/Ucovcae.png
+<img src="https://i.imgur.com/PUMPb8z.png" />
+<img src="https://i.imgur.com/Ucovcae.png" />
 
-UniumHost - A layout that I did to one of my projects that we didn't finished
+<h4>UniumHost - A layout that I did to one of my projects that we didn't finished</h4>
 
-- https://i.imgur.com/G5kAcCc.png
-- https://i.imgur.com/Upg5yNj.png
-- https://i.imgur.com/Q9lQtky.png
+<img src="https://i.imgur.com/G5kAcCc.png" />
+<img src="https://i.imgur.com/Upg5yNj.png" />
+<img src="https://i.imgur.com/Q9lQtky.png" />
 
-RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)
+<h4>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h4>
 
 - https://redeapellys.com.br/
 
-FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)
+<h4>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h4>
 
 - https://fanaticshop.com.br/
 
 Above you can see some of my projects that I've done this year (Website). You also can find here my Java Bukkit projects that I've made to some of my servers or servers that I've worked already is not a lot but it's what I can show.
 
-Social media below:
+<h5>Social media below:</h5>
 
 - Instagram: https://www.instagram.com/eric.viinny/
 - Twitter: https://twitter.com/ericviinny
