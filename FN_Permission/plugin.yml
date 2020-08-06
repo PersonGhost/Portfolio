@@ -1,0 +1,7 @@
+name: FN_Permission
+version: 1.0
+main: person.fantasy.permission.Permission
+author: PersonGhost
+commands:
+    FPermission:
+        aliases: [perms, fperms, permissao, permissions]
