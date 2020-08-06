@@ -8,28 +8,45 @@
 
 <p>My last four projects that I can show</p>
 
+<br />
 <hr />
+<br />
+
 <h2>AspectMania - Website for a minecraft server</h2>
 
 <img src="https://i.imgur.com/GRl7Eu1.png" />
 <img src="https://i.imgur.com/PUMPb8z.png" />
 <img src="https://i.imgur.com/Ucovcae.png" />
 
+<br />
 <hr />
+<br />
+
 <h2>UniumHost - A layout that I did to one of my projects that we didn't finished</h2>
 
 <img src="https://i.imgur.com/G5kAcCc.png" />
 <img src="https://i.imgur.com/Upg5yNj.png" />
 <img src="https://i.imgur.com/Q9lQtky.png" />
 
-<hr>
-<h3>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h3>
+<br />
+<hr />
+<br />
 
-- https://redeapellys.com.br/
+<h2>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h2>
 
-<h4>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h4>
+- <a href="https://redeapellys.com.br/">Click here</a>
 
-- https://fanaticshop.com.br/
+<br />
+<hr />
+<br />
+
+<h2>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h2>
+
+- <a href="https://fanaticshop.com.br/">Click here</a>
+
+<br />
+<hr />
+<br />
 
 </p>Above you can see some of my projects that I've done this year (Website). You also can find here my Java Bukkit projects that I've made to some of my servers or servers that I've worked already is not a lot but it's what I can show.</p>
 
@@ -69,11 +86,11 @@
 <hr>
 <h3>RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h3>
 
-- https://redeapellys.com.br/
+- <a href="https://redeapellys.com.br/">Click here</a>
 
 <h3>FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h3>
 
-- https://fanaticshop.com.br/
+- <a href="https://fanaticshop.com.br/">Click here</a>
 
 <p>Acima você pode ver alguns dos projetos já feitos por mim este ano (sites). Você também pode encontar aqui meus projetos Java Bukkit que eu fiz para alguns dos meus servidores ou servidores que eu já trabalhei, não é muito mas são os que eu posso mostrar.</p>
 
