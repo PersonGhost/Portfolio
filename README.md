@@ -34,4 +34,3 @@ Social media below:
 - Facebook: https://www.facebook.com/eric.viinny
 - Discord: PersonGhost#3867
 
-#Teste
