@@ -2,20 +2,21 @@
 
 <h3>English</h3>
 
-These are some projects mine that I've made since I started programming, there's not everything that I can do because 90% of my projects are to some peoples that don't want this projects to be showed. since then I just going to put here what I think that must be showed.
+<p>These are some projects mine that I've made since I started programming, there's not everything that I can do because 90% of my projects are to some peoples that don't want this projects to be showed. since then I just going to put here what I think that must be showed.</p>
 
-There's others project that I did about websites (frontend) where the images can be saw on Imgur (https://imgur.com/user/FanaticShop)
+<p>There's others project that I did about websites (frontend) where the images can be saw on Imgur (https://imgur.com/user/FanaticShop)</p>
 
-My last four projects that I can show
+<p>My last four projects that I can show</p>
 
-<h4>AspectMania - Website for a minecraft server</h4>
+<hr />
+<h2>AspectMania - <small>Website for a minecraft server</small></h2>
 
 <img src="https://i.imgur.com/GRl7Eu1.png" />
 <img src="https://i.imgur.com/PUMPb8z.png" />
 <img src="https://i.imgur.com/Ucovcae.png" />
 
-<hr>
-<h3>UniumHost - A layout that I did to one of my projects that we didn't finished</h3>
+<hr />
+<h2>UniumHost - A layout that I did to one of my projects that we didn't finished</h2>
 
 <img src="https://i.imgur.com/G5kAcCc.png" />
 <img src="https://i.imgur.com/Upg5yNj.png" />
