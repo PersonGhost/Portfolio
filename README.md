@@ -1,6 +1,6 @@
 # Portfolio
 
-English
+<h3>English</h3>
 
 These are some projects mine that I've made since I started programming, there's not everything that I can do because 90% of my projects are to some peoples that don't want this projects to be showed. since then I just going to put here what I think that must be showed.
 
