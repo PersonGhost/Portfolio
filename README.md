@@ -14,13 +14,15 @@ My last four projects that I can show
 <img src="https://i.imgur.com/PUMPb8z.png" />
 <img src="https://i.imgur.com/Ucovcae.png" />
 
-<h4>UniumHost - A layout that I did to one of my projects that we didn't finished</h4>
+<hr>
+<h3>UniumHost - A layout that I did to one of my projects that we didn't finished</h3>
 
 <img src="https://i.imgur.com/G5kAcCc.png" />
 <img src="https://i.imgur.com/Upg5yNj.png" />
 <img src="https://i.imgur.com/Q9lQtky.png" />
 
-<h4>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h4>
+<hr>
+<h3>RedeApellys - <small>A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</small></h3>
 
 - https://redeapellys.com.br/
 
