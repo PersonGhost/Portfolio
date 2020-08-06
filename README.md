@@ -10,7 +10,7 @@ My last four projects that I can show
 
 AspectMania - Website for a minecraft server
 
-- https://i.imgur.com/GRl7Eu1.png
+<img src="https://i.imgur.com/GRl7Eu1.png" />
 - https://i.imgur.com/PUMPb8z.png
 - https://i.imgur.com/Ucovcae.png
 
