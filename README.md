@@ -12,7 +12,7 @@
 <hr />
 <br />
 
-<h2>AspectMania - Website for a minecraft server</h2>
+<h4>AspectMania - Website for a minecraft server</h4>
 
 - https://i.imgur.com/GRl7Eu1.png
 - https://i.imgur.com/PUMPb8z.png
@@ -20,7 +20,7 @@
 
 <hr />
 
-<h2>UniumHost - A layout that I did to one of my projects that we didn't finished</h2>
+<h4>UniumHost - A layout that I did to one of my projects that we didn't finished</h4>
 
 - https://i.imgur.com/G5kAcCc.png
 - https://i.imgur.com/Upg5yNj.png
@@ -28,13 +28,13 @@
 
 <hr />
 
-<h2>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h2>
+<h4>RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h4>
 
 - <a href="https://redeapellys.com.br/">Click here</a>
 
 <hr />
 
-<h2>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h2>
+<h4>FanaticShop - A ReactJS project in development but the frontend is already done (The website online is not in react, just html/css)</h4>
 
 - <a href="https://fanaticshop.com.br/">Click here</a>
 
@@ -62,25 +62,25 @@
 <p>Meus útlimos quatro projetos que posso mostrar</p>
 
 <hr />
-<h2>AspectMania - Site para um servidor de Minecraft</h2>
+<h4>AspectMania - Site para um servidor de Minecraft</h4>
 
 - https://i.imgur.com/GRl7Eu1.png
 - https://i.imgur.com/PUMPb8z.png
 - https://i.imgur.com/Ucovcae.png
 
 <hr />
-<h2>UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h2>
+<h4>UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h4>
 
 - https://i.imgur.com/G5kAcCc.png
 - https://i.imgur.com/Upg5yNj.png
 - https://i.imgur.com/Q9lQtky.png
 
 <hr>
-<h3>RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h3>
+<h4>RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h4>
 
 - <a href="https://redeapellys.com.br/">Click here</a>
 
-<h3>FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h3>
+<h4>FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h4>
 
 - <a href="https://fanaticshop.com.br/">Click here</a>
 
