@@ -1,0 +1,12 @@
+name: FN_LobbyMinigames
+version: 1.0
+author: PersonGhost
+main: person.minigames.fantasy.Main
+commands:
+  fnchat:
+  connect:
+  construir:
+    aliases: [build]
+  fnspawn:
+  tell:
+  vanish:
