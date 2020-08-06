@@ -1,6 +1,6 @@
 # Portfolio
 
-<h1>🟢 English</h1>
+<h2>🟢 English</h2>
 
 <p>These are some projects mine that I've made since I started programming, there's not everything that I can do because 90% of my projects are to some peoples that don't want this projects to be showed. since then I just going to put here what I think that must be showed.</p>
 
@@ -51,7 +51,7 @@
 <hr />
 <br />
 
-<h1>🟡 Português</h1>
+<h2>🟡 Português</h2>
 
 <p>Estes são alguns dos projetos já feitos por mim desde meu começo na programação, Aqui não mostra tudo que eu consigo fazer por conta de 90% dos meusp rojetos seres para pessoas que não querem que sejam publicados. Sendo assim vou colocar somente o que eu acho que deve/pode ser mostrado.</p>
 
