@@ -24,6 +24,10 @@
 💿 https://i.imgur.com/Upg5yNj.png <br />
 💿 https://i.imgur.com/Q9lQtky.png <br />
 
+📌 <a href="http://aspectmania.web15f33.uni5.net/">Click here</a>
+
+You can join with the user PersonGhost and password 123456
+
 <hr />
 
 <h4>🌐 RedeApellys - A JavaScript and CSS layout made on MineMarket's plataform (Web platform for minecraft servers)</h4>
@@ -66,6 +70,10 @@
 💿 https://i.imgur.com/PUMPb8z.png <br />
 💿 https://i.imgur.com/Ucovcae.png <br />
 
+📌 <a href="http://aspectmania.web15f33.uni5.net/">Clique aqui</a>
+
+Você pode entrar com o usuário PersonGhost e senha 123456
+
 <hr />
 <h4>🌐 UniumHost - Um layout que eu fiz para um dos meus projetos que não foi terminado.</h4>
 
@@ -76,11 +84,11 @@
 <hr>
 <h4>🌐 RedeApellys - Um layout JavaScript e CSS feito para a plataforma MineMarket (Plataforma web para servidores de minecraft)</h4>
 
-📌 <a href="https://redeapellys.com.br/">Click here</a>
+📌 <a href="https://redeapellys.com.br/">Clique aqui</a>
 
 <h4>🌐 FanaticShop - Um projeto ReactJS em desenvolvimento mas o frontend já esta finalizadoa (O site no ar não esta em react, somente html/css da página inicial)</h4>
 
-📌 <a href="https://fanaticshop.com.br/">Click here</a>
+📌 <a href="https://fanaticshop.com.br/">Clique aqui</a>
 
 <p>Acima você pode ver alguns dos projetos já feitos por mim este ano (sites). Você também pode encontar aqui meus projetos Java Bukkit que eu fiz para alguns dos meus servidores ou servidores que eu já trabalhei, não é muito mas são os que eu posso mostrar.</p>
 
